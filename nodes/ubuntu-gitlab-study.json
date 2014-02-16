@@ -1,0 +1,9 @@
+{"run_list":[
+    "vim",
+    "sendmail",
+    "git",
+    "ruby",
+    "mysql",
+    "gitlab",
+    "nginx"
+]}
